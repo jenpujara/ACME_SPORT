@@ -10,9 +10,8 @@ pip install requests
 
 **2. File Structure:***
 
-#### File Structure:
 	  .
-    ├── acme_sports
+    	  ├── acme_sports
 		├── main.py		# Entry point of script
 		├── utils.py	# Utils Class for utility functions
 	  └── README.md

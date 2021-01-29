@@ -8,13 +8,13 @@ Please follow the below instructions to run the code:
 pip install requests
 ```
 
-**2. File Structure:***
-
-	  .
-    	  ├── acme_sports
+**2. File Structure:**
+   
+	.
+	├── acme_sports
 		├── main.py		# Entry point of script
-		├── utils.py	# Utils Class for utility functions
-	  └── README.md
+		├── utils.py	        # Utils Class for utility functions
+	└── README.md
     
 **3.Run Code:**
 

@@ -18,9 +18,7 @@ pip install requests
     
 **3.Run Code:**
 
-On the Command Prompt
-
-## Run the command:
+On the Command Prompt, run the command:
 
 ```python
 python main.py
